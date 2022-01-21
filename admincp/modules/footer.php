@@ -1,0 +1,1 @@
+<p class="footer">Copyright by CS 445 U</p>
